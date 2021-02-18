@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dageesgabriel
-- 👀 I’m interested in Artificial intelligence, Space, Biotechnology, etc
+- 👀 I’m interested in Artificial Intelligence, Space, Biotechnology, etc
 - 🌱 I’m currently learning C# and a little more about our space research, especially those led by SpaceX
 - 💞️ I’m looking to collaborate on innovative projects in the areas of my interest mentioned above
 - 📫 How to reach me? Contact me on Linkedin or Twitter *gabrieldagees for both
